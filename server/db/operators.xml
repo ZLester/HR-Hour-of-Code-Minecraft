@@ -1,0 +1,10 @@
+<operators>
+  <tableProperties>
+    <id auto-increment="true" data-type="INTEGER" column-type="PRIMARY" is-list="false" not-null="false" />
+    <player auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false" not-null="false" />
+  </tableProperties>
+  <entry>
+    <id>1</id>
+    <player>cc42a9a0-a0a4-4543-8037-df87f1d03d70</player>
+  </entry>
+</operators>

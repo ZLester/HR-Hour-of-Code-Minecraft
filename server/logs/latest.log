@@ -1,0 +1,33 @@
+[15:38:57] [CanaryMod] [INFO]: Starting: CanaryMod 1.8.0-1.2.1-SNAPSHOT
+[15:38:57] [CanaryMod] [INFO]: Canary Path: /Users/zachlester/Projects/HR/hourOfCode/CanaryMod-1.8.0-1.2.1-SNAPSHOT-shaded.jar & Working From: /Users/zachlester/Projects/HR/hourOfCode
+[15:38:58] [CanaryMod] [INFO]: Registered xml Database
+[15:38:59] [CanaryMod] [INFO]: Found 1 plugins; total: 1
+[15:39:12] [net.minecraft.server.dedicated.DedicatedServer] [INFO]: Starting minecraft server version 1.8
+[15:39:12] [net.minecraft.server.dedicated.DedicatedServer] [INFO]: Loading properties
+[15:39:12] [net.minecraft.server.dedicated.DedicatedServer] [INFO]: Generating keypair
+[15:39:13] [net.minecraft.server.dedicated.DedicatedServer] [INFO]: Starting Minecraft server on *:25565
+[15:39:14] [CanaryMod] [INFO]: Enabling early Plugins...
+[15:39:17] [CanaryMod] [INFO]: Enabling late Plugins...
+[15:39:17] [CanaryMod] [INFO]: Enabling plugin ScriptCraft
+[15:39:44] [ScriptCraft] [WARN]: alias plugin is not yet supported in CanaryMod
+[15:39:51] [ScriptCraft] [WARN]: commando-test not yet supported in CanaryMod
+[15:39:51] [ScriptCraft] [WARN]: commando plugin is not yet supported in CanaryMod
+[15:39:53] [ScriptCraft] [WARN]: cow-clicker minigame is not yet supported in CanaryMod and Craftbukkit
+[15:39:56] [net.minecraft.server.MinecraftServer] [INFO]: Preparing start region for level default_NORMAL (0)
+[15:39:57] [net.minecraft.server.MinecraftServer] [INFO]: Preparing spawn area: 22%
+[15:39:58] [net.minecraft.server.MinecraftServer] [INFO]: Preparing spawn area: 78%
+[15:39:58] [net.minecraft.server.dedicated.DedicatedServer] [INFO]: Done (44.653s)! For help, type "help" or "?"
+[15:39:59] [ScriptCraft] [INFO]: js-patch setTimeout() test complete
+[15:40:11] [net.minecraft.server.network.NetHandlerLoginServer] [INFO]: UUID of player mdboop is cc42a9a0-a0a4-4543-8037-df87f1d03d70
+[15:40:11] [net.minecraft.server.management.ServerConfigurationManager] [INFO]: mdboop[/127.0.0.1:62994] logged in with entity id 34 at (-135.58537785195898, 8.0, 282.9645161006529)
+[15:40:13] [net.minecraft.server.MinecraftServer] [INFO]: mdboop joined the game
+[15:40:17] [net.minecraft.server.MinecraftServer] [WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3897ms behind, skipping 77 tick(s)
+[15:40:38] [net.minecraft.server.MinecraftServer] [WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3995ms behind, skipping 79 tick(s)
+[15:40:41] [CanaryMod] [INFO]: Command used by mdboop: /js 1 + 1
+[15:40:44] [CanaryMod] [INFO] [NOTICE]: Console issued a manual shutdown
+[15:40:44] [net.minecraft.server.MinecraftServer] [INFO]: Stopping server
+[15:40:44] [net.minecraft.server.MinecraftServer] [INFO]: Saving players
+[15:40:44] [net.minecraft.server.MinecraftServer] [INFO]: Saving worlds
+[15:40:44] [net.minecraft.server.MinecraftServer] [INFO]: Saving chunks for level 'default'/Overworld
+[15:40:50] [CanaryMod] [INFO]: Disabling Plugins ...
+[15:40:50] [CanaryMod] [INFO]: Disabling plugin ScriptCraft
