@@ -5,3 +5,4 @@
 * Boot Minecraft and input login credentials (provided by Erin or Matthew).
 * Direct connect to your local server via entering `localhost` as address.
 * Walk through How-To Guide with students.
+* I've added a few useful prebuilt commands in `commands.js`, though the How-To cotains many more
